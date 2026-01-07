@@ -1,6 +1,6 @@
 # End-to-End Sales Data Analysis using Python
 
-##📌 Project Overview
+## 📌 Project Overview
 This project focuses on performing an end-to-end sales data analysis using Python. The goal is to clean, explore, and analyze raw sales data to uncover meaningful patterns, trends, and insights that support data-driven business decisions.
 
 ---
